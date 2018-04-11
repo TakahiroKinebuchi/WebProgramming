@@ -1,0 +1,20 @@
+ul{
+	background: black;
+}
+ul li{
+	display: inline;
+}
+
+.heading{
+	text-align: center;
+}
+
+.search-area{
+	width: 800px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.return{
+	text-align: left;
+}
